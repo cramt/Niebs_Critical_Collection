@@ -1,0 +1,2 @@
+#Backgrounds
+When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.

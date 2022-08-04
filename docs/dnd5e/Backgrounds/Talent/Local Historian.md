@@ -1,0 +1,2 @@
+#Backgrounds
+Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.
